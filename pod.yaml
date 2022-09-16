@@ -5,7 +5,7 @@ metadata:
   name: rss-site
   namespace: test
   labels:
-    app: web123
+    app: web12345
 spec:
   containers:
     - name: front-end
