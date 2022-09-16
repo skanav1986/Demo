@@ -7,6 +7,7 @@ metadata:
   labels:
     app: web
     label: label123
+    name: kanav
 spec:
   containers:
     - name: front-end
