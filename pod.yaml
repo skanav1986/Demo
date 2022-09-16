@@ -7,7 +7,6 @@ metadata:
   labels:
     app: web
     owner: kanav
-    time: friday
 spec:
   containers:
     - name: front-end
