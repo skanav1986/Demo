@@ -6,6 +6,7 @@ metadata:
   namespace: test
   labels:
     app: web
+    label: label123
 spec:
   containers:
     - name: front-end
